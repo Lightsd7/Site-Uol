@@ -1,0 +1,22 @@
+*{ 
+    padding: 0;
+    margin: 0;
+    font: 13px Georgia, Verdana, Sans-Serif black; 
+    font-family: "Lucida Grande" ;
+}
+
+#corpo{
+    float: left;
+}
+
+#esquerda{
+
+}
+
+#manchete h1{
+    color: red;
+    background-color: yellow;
+    width: 60%;
+    margin: 0 0 0 30px;
+    font-weight: bolder;
+}
